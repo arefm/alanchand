@@ -1,0 +1,28 @@
+{
+  "name": "alanchand",
+  "version": "1.0.0",
+  "main": "src/main",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "alanchand": "src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arefm/alanchand.git"
+  },
+  "keywords": [],
+  "author": "Aref M. <code@aref.uk> (https://aref.uk)",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/arefm/alanchand/issues"
+  },
+  "homepage": "https://github.com/arefm/alanchand#readme",
+  "description": "",
+  "dependencies": {
+    "cli-table3": "^0.6.5"
+  }
+}
