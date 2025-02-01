@@ -1,6 +1,6 @@
 {
   "name": "alanchand",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "src/main",
   "scripts": {
     "start": "node .",
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/arefm/alanchand#readme",
   "description": "",
   "dependencies": {
-    "cli-table3": "^0.6.5"
+    "cli-table3": "^0.6.5",
+    "commander": "^13.1.0"
   }
 }
